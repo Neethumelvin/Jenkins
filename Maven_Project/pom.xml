@@ -37,7 +37,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>ExcelFile.excelfileexample</mainClass>
+							<mainClass>ExcelProgram.ExcelRead</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
